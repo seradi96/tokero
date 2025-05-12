@@ -13,7 +13,6 @@ namespace PlaywrightTests.Pages
         }
 
         // Locators
-        private ILocator LanguageSwitcher => _page.GetByRole(AriaRole.Button, new() { Name = "en flag EN", Exact = true });
         private ILocator CookieAcceptButton => _page.GetByRole(AriaRole.Button, new() { Name = "Accept all cookies" });
         private ILocator CookieCloseButton => _page.GetByRole(AriaRole.Button, new() { Name = "✖" });
 
@@ -62,6 +61,8 @@ namespace PlaywrightTests.Pages
 
             await languageOption.ClickAsync();
         }
+
+        
         private ILocator GetLanguageSwitcher(string langCode)
         {
             string expectedName = langCode.ToLower() switch
