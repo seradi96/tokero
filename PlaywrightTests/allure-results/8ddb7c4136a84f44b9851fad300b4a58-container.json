@@ -1,0 +1,15 @@
+{
+  "uuid": "5f37688c-4fac-49a3-82f6-84d21994f97e",
+  "name": "PlaywrightTests.Tests.PolicyTests",
+  "children": [
+    "9c279378-06c7-41d0-88f0-6b956d678cac",
+    "81cd9c53-8152-42e3-8bbf-0e618f1c0124",
+    "0f4ee58f-7b4b-40b7-a274-93f62a684a80",
+    "c521fe12-4450-4079-90dc-2f2d8b673c36"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1747155303671,
+  "stop": 1747155492637
+}

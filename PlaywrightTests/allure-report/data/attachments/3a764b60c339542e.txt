@@ -1,0 +1,16 @@
+[19:54:08 INF] Test setup completed successfully.
+[19:54:08 INF] Starting test: ValidatePoliciesPages_MultiBrowserWithPerformance for browser: webkit, language: EN
+For Language (EN) the URL is : https://tokero.dev/en/policies/, expected: https://tokero.dev/en/policies/
+Validated policy page with heading: Terms of Service
+Validated policy page with heading: Privacy Policy
+Validated policy page with heading: Cookies Policy
+Validated policy page with heading: Fees and timings
+Validated policy page with heading: KYC and AML policy
+Validated policy page with heading: AML Country Status
+Validated policy page with heading: TOKERO Affiliate Heroes Program
+Validated policy page with heading: Request answering/processing times
+Validated policy page with heading: Minimums and options
+Validated policy page with heading: RIGHTS OF DATA SUBJECTS WITH REGARD TO THE PROCESSING OF PERSONAL DATA UNDER EU REGULATION 2016/679
+Total validation time for browser: webkit, language: EN: 42026.7444 ms
+Performance test completed for browser: webkit, language: EN. Trace and HAR files saved.
+[19:55:03 INF] Test cleanup completed successfully.

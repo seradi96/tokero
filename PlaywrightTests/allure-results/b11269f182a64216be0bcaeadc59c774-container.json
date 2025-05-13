@@ -1,0 +1,12 @@
+{
+  "uuid": "8555d9cf-6dd3-4747-a18c-293b49a7a7aa",
+  "name": "PlaywrightTests.Tests.LanguageTests.CanSwitchLanguages",
+  "children": [
+    "dedb400f-048b-4334-b48f-409f86103b90"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1747155138201,
+  "stop": 1747155144233
+}

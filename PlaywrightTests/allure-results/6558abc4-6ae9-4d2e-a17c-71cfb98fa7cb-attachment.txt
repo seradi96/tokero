@@ -1,0 +1,7 @@
+[19:52:19 INF] Test setup completed successfully.
+[19:52:19 INF] Starting test: CanSwitchLanguages
+[19:52:20 INF] Mission Text (EN): At TOKERO, our mission is to make crypto accessible to everyone in a simple, fast and safe way.
+[19:52:22 INF] Mission Text (RO): La TOKERO, misiunea noastră este să facem crypto accesibil tuturor într-un mod simplu, rapid și sigur.
+[19:52:22 INF] Mission Text (FR): À TOKERO, notre mission est de faire crypto accessible à tous dans un moyen simple, rapide et sûr.
+[19:52:23 INF] Mission Text (EN): At TOKERO, our mission is to make crypto accessible to everyone in a simple, fast and safe way.
+[19:52:24 INF] Test cleanup completed successfully.

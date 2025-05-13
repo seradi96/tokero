@@ -1,0 +1,72 @@
+{
+  "uuid": "dedb400f-048b-4334-b48f-409f86103b90",
+  "historyId": "91c9a2447b57929393307e78e335dc5e",
+  "testCaseId": "fb22aceb184986dcf4dd469011871f20",
+  "fullName": "PlaywrightTests:PlaywrightTests.Tests.LanguageTests.CanSwitchLanguages()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-M4ILVVJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CanSwitchLanguages"
+    },
+    {
+      "name": "testClass",
+      "value": "LanguageTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "tag",
+      "value": "Smoke"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "QA Team"
+    },
+    {
+      "name": "suite",
+      "value": "Language Tests"
+    }
+  ],
+  "links": [],
+  "name": "CanSwitchLanguages",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This test validates the ability to switch languages and verify mission text.",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "6558abc4-6ae9-4d2e-a17c-71cfb98fa7cb-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1747155138201,
+  "stop": 1747155144232
+}

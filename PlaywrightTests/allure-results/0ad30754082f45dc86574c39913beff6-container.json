@@ -1,0 +1,12 @@
+{
+  "uuid": "cbfc4564-bed5-489d-95b1-b3007c246f9f",
+  "name": "PlaywrightTests.Tests.FunctionalTests.ValidateFunctionalities",
+  "children": [
+    "9c37be78-1bae-4828-a4fb-f5c43af9a70e"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1747155121109,
+  "stop": 1747155138189
+}

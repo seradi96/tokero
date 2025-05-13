@@ -1,0 +1,12 @@
+{
+  "uuid": "001c0948-feb4-4198-95e9-35778657cc33",
+  "name": "PlaywrightTests.Tests.FunctionalTests",
+  "children": [
+    "9c37be78-1bae-4828-a4fb-f5c43af9a70e"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1747155121068,
+  "stop": 1747155138194
+}

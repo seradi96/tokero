@@ -1,0 +1,9 @@
+{
+    "allure": {
+        "directory": "allure-results",
+        "links": {
+            "issue": "http://example.com/issue/{}/",
+            "tms": "http://example.com/tms/{}/"
+        }
+    }
+}
