@@ -1,0 +1,12 @@
+{
+  "uuid": "58aad639-4add-4cbd-8159-5a9e40ed9deb",
+  "name": "PlaywrightTests.Tests.LanguageTests.GoToPoliciesPage_MultiLanguage(\"FR\")",
+  "children": [
+    "f0762c6a-9cf1-48f6-9f24-b1df9c97e36b"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1747155156900,
+  "stop": 1747155163509
+}

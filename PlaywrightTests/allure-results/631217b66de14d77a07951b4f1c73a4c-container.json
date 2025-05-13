@@ -1,0 +1,14 @@
+{
+  "uuid": "9986dfe7-b862-4e7d-adae-5e15c220e0b7",
+  "name": "PlaywrightTests.Tests.PerformanceTests",
+  "children": [
+    "56a9b65e-3ad8-4974-8704-5d53efecd742",
+    "e691b1b6-f442-479a-a949-d8558dca8c32",
+    "9cada75c-c6a4-44e0-ba47-4642d0b495d3"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1747155163510,
+  "stop": 1747155303671
+}

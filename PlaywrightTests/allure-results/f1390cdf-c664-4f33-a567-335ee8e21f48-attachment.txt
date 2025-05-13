@@ -1,0 +1,13 @@
+[19:52:03 INF] Test setup completed successfully.
+[19:52:03 INF] Starting test: ValidateFunctionalities
+[19:52:04 INF] Buy instantly functionality validated.
+[19:52:05 INF] Receive amount validation completed.
+[19:52:05 INF] Coin changed.
+[19:52:05 INF] Receive amount validation completed.
+[19:52:07 INF] Returned to the home page.
+[19:52:10 INF] Webinar Page visited.
+[19:52:12 INF] Search for SOL completed.
+[19:52:16 INF] Visited Solana page.
+[19:52:17 INF] Subscription to newsletter completed.
+[19:52:17 INF] Test: ValidateFunctionalities completed successfully.
+[19:52:18 INF] Test cleanup completed successfully.

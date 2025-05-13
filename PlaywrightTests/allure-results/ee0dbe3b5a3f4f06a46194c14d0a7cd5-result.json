@@ -1,0 +1,78 @@
+{
+  "uuid": "bb648482-d2ca-4a71-bb8a-4e23c8a7d2f0",
+  "historyId": "fe90d1c75e64afb27ea3a096c2377609",
+  "testCaseId": "e82f4ca66c138c7f2bc3e0be202ba12e",
+  "fullName": "PlaywrightTests:PlaywrightTests.Tests.LanguageTests.GoToPoliciesPage_MultiLanguage(System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-M4ILVVJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "GoToPoliciesPage_MultiLanguage"
+    },
+    {
+      "name": "testClass",
+      "value": "LanguageTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "tag",
+      "value": "Smoke"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "QA Team"
+    },
+    {
+      "name": "suite",
+      "value": "Language Tests"
+    }
+  ],
+  "links": [],
+  "name": "GoToPoliciesPage_MultiLanguage(\"RO\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This test validates navigation to the policies page in multiple languages.",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "fdc6b722-08ed-45d4-8762-dbcf6b3df22a-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "langCode",
+      "value": "\"RO\"",
+      "excluded": false
+    }
+  ],
+  "start": 1747155150369,
+  "stop": 1747155156899
+}

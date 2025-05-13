@@ -1,0 +1,83 @@
+{
+  "uuid": "9cada75c-c6a4-44e0-ba47-4642d0b495d3",
+  "historyId": "2599280f6f55af11d4196c703264bd04",
+  "testCaseId": "82cb0e91c1d5660fa0c898eaed7031a9",
+  "fullName": "PlaywrightTests:PlaywrightTests.Tests.PerformanceTests.ValidatePoliciesPages_MultiBrowserWithPerformance(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-M4ILVVJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ValidatePoliciesPages_MultiBrowserWithPerformance"
+    },
+    {
+      "name": "testClass",
+      "value": "PerformanceTests"
+    },
+    {
+      "name": "tag",
+      "value": "Performance"
+    },
+    {
+      "name": "tag",
+      "value": "MultiBrowser"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Performance Team"
+    },
+    {
+      "name": "suite",
+      "value": "Performance Tests"
+    }
+  ],
+  "links": [],
+  "name": "ValidatePoliciesPages_MultiBrowserWithPerformance(\"webkit\",\"EN\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This test validates policy pages across multiple browsers with performance metrics.",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "b824a732-8eea-4a02-81ae-71a2a168c4b9-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "browserType",
+      "value": "\"webkit\"",
+      "excluded": false
+    },
+    {
+      "name": "langCode",
+      "value": "\"EN\"",
+      "excluded": false
+    }
+  ],
+  "start": 1747155247997,
+  "stop": 1747155303669
+}

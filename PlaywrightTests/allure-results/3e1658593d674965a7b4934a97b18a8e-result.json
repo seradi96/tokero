@@ -1,0 +1,78 @@
+{
+  "uuid": "9c279378-06c7-41d0-88f0-6b956d678cac",
+  "historyId": "f2e360955958f5607014db96c5e93d0c",
+  "testCaseId": "9c6ed0d017fc94ee0eddd7a9b60255fb",
+  "fullName": "PlaywrightTests:PlaywrightTests.Tests.PolicyTests.ValidateAllPoliciesPages(System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-M4ILVVJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ValidateAllPoliciesPages"
+    },
+    {
+      "name": "testClass",
+      "value": "PolicyTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "tag",
+      "value": "Smoke"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "QA Team"
+    },
+    {
+      "name": "suite",
+      "value": "Policy Tests"
+    }
+  ],
+  "links": [],
+  "name": "ValidateAllPoliciesPages(\"EN\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This test validates all policy pages for a given language.",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "962dab4a-9e52-41b6-a689-1954c4972555-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "langCode",
+      "value": "\"EN\"",
+      "excluded": false
+    }
+  ],
+  "start": 1747155303675,
+  "stop": 1747155344630
+}

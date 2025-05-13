@@ -1,0 +1,83 @@
+{
+  "uuid": "81cd9c53-8152-42e3-8bbf-0e618f1c0124",
+  "historyId": "77a6bb0e61dd4fc57340b613c05364ad",
+  "testCaseId": "4dee8a30964fb30fae09d701dfc76e64",
+  "fullName": "PlaywrightTests:PlaywrightTests.Tests.PolicyTests.ValidatePoliciesPages_MultiBrowser(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-M4ILVVJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ValidatePoliciesPages_MultiBrowser"
+    },
+    {
+      "name": "testClass",
+      "value": "PolicyTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "tag",
+      "value": "MultiBrowser"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "QA Team"
+    },
+    {
+      "name": "suite",
+      "value": "Policy Tests"
+    }
+  ],
+  "links": [],
+  "name": "ValidatePoliciesPages_MultiBrowser(\"chromium\",\"EN\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This test validates policy pages across multiple browsers.",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "5a7ff490-6177-4ccb-be78-e8c2c2bef90f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "browserType",
+      "value": "\"chromium\"",
+      "excluded": false
+    },
+    {
+      "name": "langCode",
+      "value": "\"EN\"",
+      "excluded": false
+    }
+  ],
+  "start": 1747155344631,
+  "stop": 1747155383005
+}

@@ -1,0 +1,72 @@
+{
+  "uuid": "9c37be78-1bae-4828-a4fb-f5c43af9a70e",
+  "historyId": "b65852a9d82d9652257f90bb9753441e",
+  "testCaseId": "8633ee3a39b8ba102172b480154eba38",
+  "fullName": "PlaywrightTests:PlaywrightTests.Tests.FunctionalTests.ValidateFunctionalities()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-M4ILVVJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ValidateFunctionalities"
+    },
+    {
+      "name": "testClass",
+      "value": "FunctionalTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "tag",
+      "value": "Smoke"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "QA Team"
+    },
+    {
+      "name": "suite",
+      "value": "Functional Tests"
+    }
+  ],
+  "links": [],
+  "name": "ValidateFunctionalities",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This test validates the 'Buy Instantly' functionality.",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "f1390cdf-c664-4f33-a567-335ee8e21f48-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1747155121110,
+  "stop": 1747155138177
+}

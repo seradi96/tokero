@@ -1,0 +1,83 @@
+{
+  "uuid": "c521fe12-4450-4079-90dc-2f2d8b673c36",
+  "historyId": "d92c043cee30e0e04f76c36c0dd6bf80",
+  "testCaseId": "4dee8a30964fb30fae09d701dfc76e64",
+  "fullName": "PlaywrightTests:PlaywrightTests.Tests.PolicyTests.ValidatePoliciesPages_MultiBrowser(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-M4ILVVJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ValidatePoliciesPages_MultiBrowser"
+    },
+    {
+      "name": "testClass",
+      "value": "PolicyTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "tag",
+      "value": "MultiBrowser"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "QA Team"
+    },
+    {
+      "name": "suite",
+      "value": "Policy Tests"
+    }
+  ],
+  "links": [],
+  "name": "ValidatePoliciesPages_MultiBrowser(\"webkit\",\"EN\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This test validates policy pages across multiple browsers.",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "6ebdd9e2-73d1-42f7-8985-0ed2566f6aea-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "browserType",
+      "value": "\"webkit\"",
+      "excluded": false
+    },
+    {
+      "name": "langCode",
+      "value": "\"EN\"",
+      "excluded": false
+    }
+  ],
+  "start": 1747155424705,
+  "stop": 1747155492636
+}

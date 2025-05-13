@@ -1,0 +1,5 @@
+[19:52:31 INF] Test setup completed successfully.
+[19:52:31 INF] Starting test: GoToPoliciesPage_MultiLanguage for language: RO
+For Language (RO) the URL is : https://tokero.dev/ro/policies/, expected: https://tokero.dev/ro/policies/
+[19:52:36 INF] Heading Text (RO): Politici și reguli TOKERO
+[19:52:36 INF] Test cleanup completed successfully.

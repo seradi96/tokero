@@ -6,6 +6,15 @@ namespace PlaywrightTests.Pages
     {
         private readonly IPage _page;
         private readonly string _url = "https://tokero.dev/en/";
+         // Locators
+        public ILocator BuyInstantlyLink => _page.GetByRole(AriaRole.Link, new() { Name = "You can buy instantly via" });
+        public ILocator WatchRecordingLink => _page.GetByRole(AriaRole.Link, new() { Name = "Watch the Recording" });
+        public ILocator ViewMoreLink => _page.GetByRole(AriaRole.Link, new() { Name = "View more" }).First;
+        public ILocator SolanaLink => _page.GetByRole(AriaRole.Link, new() { Name = "Solana SOL" });
+        public ILocator EmailTextbox => _page.GetByRole(AriaRole.Textbox, new() { Name = "Please type your email" });
+        public ILocator SubscribeButton => _page.GetByRole(AriaRole.Button, new() { Name = "Subscribe " });
+        public ILocator SubscriptionSuccessMessage => _page.GetByRole(AriaRole.Contentinfo);
+
 
         public HomePage(IPage page)
         {
@@ -55,6 +64,7 @@ namespace PlaywrightTests.Pages
                 "PT" => _page.GetByRole(AriaRole.Button, new() { Name = "pt flag PT" }),
                 "TR" => _page.GetByRole(AriaRole.Button, new() { Name = "tr flag TR" }),
                 "EN" => _page.GetByRole(AriaRole.Button, new() { Name = "en flag EN" }),
+                "DE" => _page.GetByRole(AriaRole.Button, new() { Name = "de flag DE" }),
                 _ => throw new ArgumentException($"Unsupported language code: {languageCode}")
             };
             
@@ -74,6 +84,7 @@ namespace PlaywrightTests.Pages
                 "pl" => "pl flag PL",
                 "pt" => "pt flag PT",
                 "tr" => "tr flag TR",
+                "de" => "de flag DE",
                 _ => "en flag EN" // default fallback
             };
 

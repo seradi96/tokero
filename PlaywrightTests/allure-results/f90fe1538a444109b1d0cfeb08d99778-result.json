@@ -1,0 +1,90 @@
+{
+  "uuid": "e691b1b6-f442-479a-a949-d8558dca8c32",
+  "historyId": "b739b3a74d3ac1ecd23517ba56651111",
+  "testCaseId": "82cb0e91c1d5660fa0c898eaed7031a9",
+  "fullName": "PlaywrightTests:PlaywrightTests.Tests.PerformanceTests.ValidatePoliciesPages_MultiBrowserWithPerformance(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-M4ILVVJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ValidatePoliciesPages_MultiBrowserWithPerformance"
+    },
+    {
+      "name": "testClass",
+      "value": "PerformanceTests"
+    },
+    {
+      "name": "tag",
+      "value": "Performance"
+    },
+    {
+      "name": "tag",
+      "value": "MultiBrowser"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Performance Team"
+    },
+    {
+      "name": "suite",
+      "value": "Performance Tests"
+    }
+  ],
+  "links": [],
+  "name": "ValidatePoliciesPages_MultiBrowserWithPerformance(\"firefox\",\"EN\")",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.TimeoutException : Timeout 30000ms exceeded.\nCall log:\n  - waiting for Locator(\"h1, h2\") to be visible",
+    "trace": "   at Microsoft.Playwright.Transport.Connection.InnerSendMessageToServerAsync[T](ChannelOwner object, String method, Dictionary`2 dictionary, Boolean keepNulls) in /_/src/Playwright/Transport/Connection.cs:line 206\r\n   at Microsoft.Playwright.Transport.Connection.WrapApiCallAsync[T](Func`1 action, Boolean isInternal)\r\n   at Microsoft.Playwright.Core.Frame.WaitForSelectorAsync(String selector, FrameWaitForSelectorOptions options) in /_/src/Playwright/Core/Frame.cs:line 670\r\n   at PlaywrightTests.Pages.PoliciesPage.ValidateAllPolicyPagesAsync(String langCode, List`1 policyLocators) in E:\\Tokero\\PlaywrightTests\\Pages\\PoliciesPage.cs:line 40\r\n   at PlaywrightTests.Tests.PerformanceTests.ValidatePoliciesPages_MultiBrowserWithPerformance(String browserType, String langCode) in E:\\Tokero\\PlaywrightTests\\Tests\\PerformanceTests.cs:line 171\r\n   at NUnit.Framework.Internal.TaskAwaitAdapter.GenericAdapter`1.BlockUntilCompleted()\r\n   at NUnit.Framework.Internal.MessagePumpStrategy.NoMessagePumpStrategy.WaitForCompletion(AwaitAdapter awaiter)\r\n   at NUnit.Framework.Internal.AsyncToSyncAdapter.Await[TResult](TestExecutionContext context, Func`1 invoke)\r\n   at NUnit.Framework.Internal.AsyncToSyncAdapter.Await(TestExecutionContext context, Func`1 invoke)\r\n   at NUnit.Framework.Internal.Commands.TestMethodCommand.RunTestMethod(TestExecutionContext context)\r\n   at NUnit.Framework.Internal.Commands.TestMethodCommand.Execute(TestExecutionContext context)\r\n   at NUnit.Framework.Internal.Commands.BeforeAndAfterTestCommand.<>c__DisplayClass1_0.<Execute>b__0()\r\n   at NUnit.Framework.Internal.Commands.DelegatingTestCommand.RunTestMethodInThreadAbortSafeZone(TestExecutionContext context, Action action)"
+  },
+  "stage": "finished",
+  "description": "This test validates policy pages across multiple browsers with performance metrics.",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "60238f49-62ca-460f-98cf-d91aedb8012e-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "browserType",
+      "value": "\"firefox\"",
+      "excluded": false
+    },
+    {
+      "name": "langCode",
+      "value": "\"EN\"",
+      "excluded": false
+    }
+  ],
+  "start": 1747155209091,
+  "stop": 1747155247996
+}

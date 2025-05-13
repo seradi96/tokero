@@ -10,7 +10,8 @@ namespace PlaywrightTests.Helpers
         {
             { "EN", "TOKERO policies and rules" },
             { "RO", "Politici și reguli TOKERO" },
-            { "FR", "Politiques et règles TOKERO" }
+            { "FR", "Politiques et règles TOKERO" },
+            { "DE", "TOKERO kasutustingimused ja reeglid" }
         };
     
     }
